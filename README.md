@@ -16,3 +16,7 @@ Dungeon Door Games adalah permainan petualangan yang menguji kemampuan pemain da
 5. **Cobalah Lagi**: Jika pemain gagal menebak angka yang benar, mereka akan diberikan pilihan untuk mencoba lagi atau keluar dari permainan.
 
 ### Struktur Direktori:
+/Dungeon Door Games
+├── Dungeon_Door_Games.py # File utama permainan
+├── README.md # Panduan pengguna
+├── requirements.txt # Daftar dependensi
